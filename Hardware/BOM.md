@@ -6,7 +6,7 @@
 | 12mm rubber tyres          | £4.00 | 2   | £7.99  | https://www.amazon.co.uk/gp/product/B01KKBLXR2                                            |
 | L298N motor driver         | £2.40 | 1   | £2.40  | https://www.amazon.co.uk/TIMESETL-Stepper-Controller-Electric-Projects/dp/B077YC3JX9      |
 | Battery individual 2600mAh | £7.82 | 2   | £15.64 | https://uk.rs-online.com/web/p/speciality-size-rechargeable-batteries/8801558/            |
-| Power switch               | £3.60 | 1   | £3.60  | http://www.hobbytronics.co.uk/mosfet-power-switch-sv-rev                                  |
+| Power switch               | $(US)4.95 | 1   | $(US)4.95  | https://www.pololu.com/product/2809/specs                                  |
 | 15mm Ball Bearing          | £0.70 | 2   | £1.40  | https://www.amazon.co.uk/ueetek-10-pieces-Diameter-Carbon-Bearing/dp/B0795MND8G/          |
 | Wheel                      | £5.15 | 1   | £5.15  | https://www.robotshop.com/uk/tamiya-wheels-pair.html                                      |
 | Ultrasonic sensor          | £0.84 | 3   | £2.52  | https://www.amazon.co.uk/HC-SR04-Ultrasonic-Distance-Rangefinder-Detection/dp/B0066X9V5K/ |
